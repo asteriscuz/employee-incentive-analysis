@@ -1,5 +1,3 @@
-# employee-incentive-analysis-absenteeism-
-understanding employee absenteeism at work
 # Employee Absenteeism-Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/9ce46da0-b48f-4161-89fd-ff12571ab73b/1e069cd472b7b782d12b?experience=power-bi
